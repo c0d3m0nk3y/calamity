@@ -1,0 +1,2 @@
+ApplicationName='tModLoaderServer', CommandLine='-autoshutdown -password "" -lang 1 -x64 -world "/home/user/.local/share/Terraria/ModLoader/Worlds/Terraria.wld" -steam -localsteamid 76561197973384535 -lobby friends', CurrentDirectory='', Native error= Cannot find the specified file
+  at System.Diagnostics.Process.StartWithCreateProcess (System.Diagnostics.ProcessStartInfo startInfo) [0x001ee] in <6c7c03f48a9747c8a644da4f63a34480>:0 
