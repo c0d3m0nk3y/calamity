@@ -1281,6 +1281,12 @@
       ],
       "ViewZoomOut": [
         "OemMinus"
+      ],
+      "BossChecklist: Toggle Boss Checklist": [
+        "P"
+      ],
+      "RecipeBrowser: Toggle Recipe Browser": [
+        "OemCloseBrackets"
       ]
     },
     "Gamepad": {
